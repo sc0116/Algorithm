@@ -1,5 +1,6 @@
+import sys
 n = int(input())
-tp = [list(map(int, input().split())) for _ in range(n)]
+tp = [list(map(int, sys.stdin.readline().split())) for _ in range(n)]
 dp = [0] * (n + 1)
 answer = 0
 for i in range(n):
