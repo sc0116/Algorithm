@@ -3,6 +3,7 @@
 ---
 * 스택
 * 우선순위 큐
+* 큐
 * 해시
 * DFS/BFS
 * Dynamic Programming
