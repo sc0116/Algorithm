@@ -3,6 +3,7 @@
 ---
 * [스택](https://github.com/sc0116/Algorithm/tree/main/Stack)
 * [우선순위 큐](https://github.com/sc0116/Algorithm/tree/main/PriorityQueue)
+* [정렬](https://github.com/sc0116/Algorithm/tree/main/Sort)
 * [큐](https://github.com/sc0116/Algorithm/tree/main/Queue)
 * [해시](https://github.com/sc0116/Algorithm/tree/main/Hash)
 * [Brute Force](https://github.com/sc0116/Algorithm/tree/main/BruteForce)
