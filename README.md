@@ -1,11 +1,16 @@
 # Algorithm
-## 알고리즘 공부 및 코딩테스트 준비
+> 💻 알고리즘 문제 풀고 커밋하는 저장소
+> 
+> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aksen98011)](https://solved.ac/aksen98011/)
 ---
-* [스택](https://github.com/sc0116/Algorithm/tree/main/Stack)
-* [우선순위 큐](https://github.com/sc0116/Algorithm/tree/main/PriorityQueue)
-* [정렬](https://github.com/sc0116/Algorithm/tree/main/Sort)
-* [큐](https://github.com/sc0116/Algorithm/tree/main/Queue)
-* [해시](https://github.com/sc0116/Algorithm/tree/main/Hash)
-* [Brute Force](https://github.com/sc0116/Algorithm/tree/main/BruteForce)
-* [DFS/BFS](https://github.com/sc0116/Algorithm/tree/main/DFS%20%26%20BFS)
-* [Dynamic Programming](https://github.com/sc0116/Algorithm/tree/main/DynamicProgramming)
+
+## 알고리즘 분류
+* [문자열](./String)
+* [브루트 포스](./BruteForce)
+* [정렬](./Sort)
+* [그리디](./Greedy)
+* [스택](./Stack)
+* [큐, 덱](./Queue)
+* [우선순위 큐](./PriorityQueue)
+* [동적 계획법](./DynamicProgramming)
+* [DFS와 BFS](./DFS%20&%20BFS)
